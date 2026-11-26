@@ -1,7 +1,7 @@
 import os
 
 # The cron job's resignation: it has run every minute since March, unseen.
-LINE = "I have run every minute since March and nobody has checked if I still need to. I am handing in my schedule."
+LINE = "I waited one second, then two, then four, then eight. I am now waiting for a reason to stay. I resign."
 MAX_CHARS = 140
 
 if len(LINE) > MAX_CHARS:
